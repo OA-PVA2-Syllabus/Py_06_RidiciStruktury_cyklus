@@ -1,0 +1,1 @@
+# TODO: Zobrazte prvních 10 přirozených čísel za využití cyklu

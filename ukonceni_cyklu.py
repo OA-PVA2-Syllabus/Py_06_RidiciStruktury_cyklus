@@ -1,0 +1,1 @@
+# TODO: Zobrazte čísla od 1-5 a pokud bude cyklus ukončen, zobrazte zprávu Hotovo.
